@@ -26,3 +26,6 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+// coded by @lasjorg
+// eslint-disable-next-line no-unused-vars
+const projectName = 'Mike and Alusine portfolio';
